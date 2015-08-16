@@ -1,6 +1,4 @@
 # deck
 An angular module for an infinite-scrolling deck of cards
 
-You can see it in action here:
-  http://betterknowtheopposition.com/mentions/
-  http://betterknowtheopposition.com/statements/
+You can see it in action at http://betterknowtheopposition.com/mentions/ and http://betterknowtheopposition.com/statements/.
